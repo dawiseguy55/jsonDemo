@@ -9,10 +9,11 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "user": {
-    "name": "jessica",
-    "id": 123,
-    "location": "Mexico",
+    "name": "admin",
+    "id": 11,
+    "ubicacion": "Mexico",
     "worknumber": 111322,
-    "completed": true
+    "completed": true,
+    "codigo: 200"
   }
 }
