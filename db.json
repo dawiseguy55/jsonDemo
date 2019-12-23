@@ -16,5 +16,14 @@
     "completed": true,
     "token": "ai99-uix3-99uif",
     "codigo": 200
+  },
+  "usuario": {
+    "usuario": "admin",
+    "id": 11,
+    "ubicacion": "Mexico",
+    "numero": 111322,
+    "completed": true,
+    "token": "ai99-uix3-99uif",
+    "codigo": 200
   }
 }
